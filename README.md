@@ -7,6 +7,9 @@ Comparing and analyzing user engagement between Q2 2021 and Q2 2022.
 * Used Python to preprocess the data and make predictions.
 * Used Excel for data analysis and hypothesis testing.
 
+# Project Files and Resources
+* The database for this project can be found on 365 Data Science at https://learn.365datascience.com/projects/tracking-user-engagement-with-sql-excel-and-python/data-preparation-with-sql-creating-a-view-task/.
+
 # Data Preparation with SQL
 * Dropped, if existed, and created the purchases_info view to show purhcase start/end dates and flag whether a student had an active paid subscription in Q2 2021 and/or 2022.
 * Created a query to show students who watched videos in Q2 2021 or Q2 2022 and had an active subscription in that time period.
